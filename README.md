@@ -9,13 +9,5 @@ The primary objectives of this project are:
 * REST API Utilization: Implementing WordPress REST API to create interactive and dynamic user experiences.
 * Gutenberg Block Development: Creating custom blocks for the Gutenberg editor to enhance content creation flexibility.
 
-## Learning Outcomes
-Through this project, I have:
-
-* Enhanced PHP and JavaScript Skills: Applied these languages to manipulate WordPress data and add interactivity.
-* Mastered Theme and Plugin Development: Gained proficiency in creating and customizing themes and plugins from scratch.
-* Understood WordPress Architecture: Developed a deep understanding of WordPress's core functionalities and extensibility.
-* Embraced Modern Development Practices: Learned to use tools like SCSS for styling and React.js for building dynamic components.
-
 ## Disclaimer
-This project is intended for educational purposes, reflecting the coursework and exercises from the Udemy course. It serves as a foundation for further exploration and development within the WordPress ecosystem.
+This project is intended for educational purposes, reflecting the coursework and exercises from the Udemy course.
